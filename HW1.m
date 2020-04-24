@@ -1,3 +1,6 @@
+%Written by Derya Yeliz ULUTAS
+%24.04.2020
+
 %step1
 rgbImage = imread('SunnyLake.bmp');
 imshow(rgbImage)
